@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.yacinetv.liveapp",
-               "sha256_cert_fingerprints": ["6F:EC:4E:C8:14:8A:5A:24:82:EE:0C:2D:33:AC:6D:72:B1:CE:2B:E8:46:82:17:B8:54:42:70:E2:5D:09:68:75"] }
+  "target" : { "namespace": "android_app", "package_name": "com.yacinetv.live",
+               "sha256_cert_fingerprints": ["A6:39:B4:16:B2:27:BA:86:D4:87:AE:BC:AD:A6:7C:6C:14:0C:BC:16:50:0F:6C:48:D9:A0:E7:6B:3E:01:D7:A7"] }
 }]
