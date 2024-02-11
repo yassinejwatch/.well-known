@@ -1,1 +1,5 @@
-[{  "relation": ["delegate_permission/common.handle_all_urls"],  "target" : { "namespace": "android_app", "package_name": "com.makan.deep_linking_flutter",               "sha256_cert_fingerprints": ["2C:66:A1:48:49:08:07:62:EE:6B:41:56:6B:9D:59:E2:25:5A:E8:E4:94:3C:A3:74:E9:01:38:EA:3B:F2:FC:B4"] }}]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.digilogtv",
+               "sha256_cert_fingerprints": ["6F:EC:4E:C8:14:8A:5A:24:82:EE:0C:2D:33:AC:6D:72:B1:CE:2B:E8:46:82:17:B8:54:42:70:E2:5D:09:68:75"] }
+}]
